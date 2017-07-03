@@ -1,0 +1,25 @@
+Apache Service detected with wrong path
+6:57:13 PM  [Apache] 	Change XAMPP Apache settings or
+6:57:13 PM  [Apache] 	Uninstall/disable the other service manually first
+6:57:13 PM  [Apache] 	Found Path: ERROR: Not Able To Open Service Manager
+6:57:13 PM  [Apache] 	Expected Path: "d:\xampp\apache\bin\httpd.exe" -k runservice
+6:57:13 PM  [Apache] 	Problem detected!
+6:57:13 PM  [Apache] 	Port 80 in use by "d:\xampp\xampp-control.exe"!
+6:57:13 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+6:57:13 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+6:57:13 PM  [Apache] 	or reconfigure Apache to listen on a different port
+6:57:13 PM  [Apache] 	Problem detected!
+6:57:13 PM  [Apache] 	Port 443 in use by "unknown program"!
+6:57:13 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+6:57:13 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+6:57:13 PM  [Apache] 	or reconfigure Apache to listen on a different port
+6:57:13 PM  [mysql] 	MySQL Service detected with wrong path
+6:57:13 PM  [mysql] 	Change XAMPP MySQL settings or
+6:57:13 PM  [mysql] 	Uninstall/disable the other service manually first
+6:57:13 PM  [mysql] 	Found Path: ERROR: Not Able To Open Service Manager
+6:57:13 PM  [mysql] 	Expected Path: d:\xampp\mysql\bin\mysqld.exe --defaults-file=d:\xampp\mysql\bin\my.ini mysql
+6:57:13 PM  [mysql] 	Problem detected!
+6:57:13 PM  [mysql] 	Port 3306 in use by "mysqld.exe"!
+6:57:13 PM  [mysql] 	MySQL WILL NOT start without the configured ports free!
+6:57:13 PM  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+6:57:13 PM  [mysql] 	or reconfigure MySQL to listen on a different port
